@@ -8,7 +8,7 @@ A base repo that provides the oauth flow to MM and sets up the boilerplate for u
 - Run `yarn install`
 - Run `yarn start`
 
-> Add documentation here to get a client-id and client-secret. In the meantime, reach out to me.
+> Contact support@machinemetrics.com to request a CLIENT_ID and CLIENT_SECRET.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
