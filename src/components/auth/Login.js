@@ -19,7 +19,7 @@ const loginParams = createParamString({
   redirect_uri: `${process.env.REACT_APP_URL}/authorize/mm/callback`,
 });
 
-const loginUrl = `${process.env.REACT_APP_LOGIN_URL}?${loginParams}`;
+const loginUrl = `${process.env.REACT_APP_LOGIN_URL}/oauth/authorize?${loginParams}`;
 
 const Centered = styled.div`
   text-align: center;
